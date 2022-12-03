@@ -1,0 +1,5 @@
+/.bsp/
+target/
+assignment/
+data/
+src/main/resources/application.conf
